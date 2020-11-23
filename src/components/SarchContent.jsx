@@ -7,7 +7,7 @@ const TITLE = () => {
   return (
     <Row>
       <Col>
-        <h2 className="font-weight-bold text-center mt-2"> <span style={{color:"#FF0000"}}>YOUTUBE</span> SERACH APP </h2>
+        <h2 className="font-weight-bold text-center mt-4"> <span style={{color:"#FF0000"}}>YOUTUBE</span> SERACH APP </h2>
       </Col>
     </Row>
   )
